@@ -81,8 +81,8 @@ I believe in the power of coding to create innovative solutions and leave a posi
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxena-Shivam&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxena-Shivam&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-kumar-byte&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-kumar-byte&layout=compact&theme=dark)
 
 </div>
 
